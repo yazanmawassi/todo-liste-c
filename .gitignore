@@ -1,0 +1,4 @@
+# Ignore generated binary
+todo
+*.o
+*.exe
