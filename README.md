@@ -2,14 +2,14 @@
 
 Ein einfaches Konsolenprogramm zum Verwalten einer To-Do-Liste mit persistentem Speicher in einer Datei (`todos.txt`).
 
-## 🛠️ Funktionen
+##  Funktionen
 
 - Anzeigen der aktuellen Aufgaben
 - Neue Aufgaben hinzufügen
 - Aufgaben löschen
 - Speicherung in Datei
 
-## 📁 Projektstruktur
+##  Projektstruktur
 
 ```
 todo_liste/
@@ -18,7 +18,7 @@ todo_liste/
 └── README.md
 ```
 
-## ▶️ Kompilieren und Ausführen
+##  Kompilieren und Ausführen
 
 ### Kompilieren:
 
@@ -32,6 +32,6 @@ gcc -o todo todo_liste.c
 ./todo
 ```
 
-## 💾 Hinweis
+## Hinweis
 
 Die Aufgaben werden automatisch in `todos.txt` gespeichert und beim Start wieder geladen.
